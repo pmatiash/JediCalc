@@ -2,7 +2,7 @@
 A command-line reverse polish notation (RPN) calculator for real jedi
 
 ## Requirements
-* PHP ^7.1
+* PHP ^7.2
 * Laravel ^5.8
 * Composer
 
